@@ -1,2 +1,3 @@
 ﻿# openglview
-！[result](result.png)
+
+[result]: result.png "result"
